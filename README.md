@@ -1,3 +1,3 @@
-# QnASep23-DariuszBydolek
+# QASep23-DariuszBydolek
 bla
 
